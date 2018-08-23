@@ -2,4 +2,4 @@
 
 https://github.com/cypress-io/cypress/issues/346
 
-[Example Report](./coverage/index.html)
+[Example Report](https://cdn.rawgit.com/paulfalgout/cypress-coverage-example/master/coverage/index.html)
